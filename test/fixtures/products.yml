@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category_id: 
+  name: MyString
+  title: MyString
+  brand: 1
+  end_of_life: 2015-03-14
+  status: 1
+
+two:
+  category_id: 
+  name: MyString
+  title: MyString
+  brand: 1
+  end_of_life: 2015-03-14
+  status: 1
